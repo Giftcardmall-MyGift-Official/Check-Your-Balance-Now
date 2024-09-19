@@ -1,6 +1,4 @@
----
-layout: default
----
+
    <!-- added Jan 20 2017-->
 <title> Tanya Gupta</title>
 
